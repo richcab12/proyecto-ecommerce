@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ecommerce</groupId>
-	<artifactId>spring-ecommerce</artifactId>
+	<artifactId>ecommerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-ecommerce</name>
+	<name>ecommerce</name>
 	<description>Prueba Técnica - Arquitecto Junior</description>
 	<url/>
 	<licenses>
